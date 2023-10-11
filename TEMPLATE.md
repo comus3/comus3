@@ -12,7 +12,7 @@ I've been on GitHub for {{ ACCOUNT_AGE }} years and during this time, I've made 
 
 - 📦 Projects: I'm a project enthusiast and enjoy working on a variety of ideas alongside my studies. Each project is an opportunity for me to learn and enhance my skills.
 
-- 👷 Simumations: I'm still a future engineer, I am passionated by physics and the science of generating models that approximate reality
+- 👷 Simulations: I'm still a future engineer, I am passionated by physics and the science of generating models that approximate reality
 
 ## Favorite Projects
 
