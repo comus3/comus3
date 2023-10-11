@@ -1,27 +1,38 @@
-# Bienvenue sur mon profil GitHub ! 👋
+![Profile Image](profileImg.jpg)
 
-Salut, je suis [comus3] et j'ai 22 ans. Je suis étudiant en électronique et en informatique à l'ECAM.
+Hi there, I'm Côme Plantin-Carrenard, a 22-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
 
-## Mes Passions et Compétences
+I've been on GitHub for {{ ACCOUNT_AGE }} years and during this time, I've made {{ COMMITS }} commits across {{ REPOSITORIES_CONTRIBUTED_TO }} repositories.
 
-- 🖥️ Programmation : J'aime coder en Python, C#, C, et Java. J'aime résoudre des problèmes et créer des applications dans ces langages.
+## My Passions and Skills
 
-- 🤖 Intelligence Artificielle : Je suis particulièrement passionné par l'IA, les réseaux neuronaux, et tout ce qui touche à la science des données. J'explore ces domaines en autodidacte pour en apprendre davantage.
+- 🖥️ Programming: I love to code in Python, C#, C++, and Java. Solving problems and creating applications in these languages is my forte.
 
-- 📦 Projets : Je suis un amateur de projets et j'aime travailler sur diverses idées en parallèle à mes études. Chaque projet est une opportunité d'apprendre de nouvelles choses et de perfectionner mes compétences.
+- 🤖 Artificial Intelligence: I have a special affinity for AI, neural networks, and the realm of data science. I explore these domains on my own to learn and grow.
 
-## Projets Préférés
+- 📦 Projects: I'm a project enthusiast and enjoy working on a variety of ideas alongside my studies. Each project is an opportunity for me to learn and enhance my skills.
 
-Voici quelques-uns de mes projets préférés :
+## Favorite Projects
 
-- [Projet FFT-Filter](https://github.com/comus3/FFT-Filter) : Un projet que j'ai créé pour appliquer des filtres FFT à des signaux.
+Here are a few of my favorite projects:
 
-- [A Real Hello World](https://github.com/comus3/A_real_hello_world) : Un projet qui met en lumière une perspective unique sur le traditionnel "Hello World."
+- [FFT-Filter Project](https://github.com/comus3/FFT-Filter): A project I created for applying FFT filters to signals.
 
-N'hésitez pas à explorer ces projets pour en savoir plus sur mon travail !
+- [A Real Hello World](https://github.com/comus3/A_real_hello_world): A unique perspective on the traditional "Hello World."
 
-## Référence
+Feel free to explore these projects to learn more about my work!
 
-Je tiens à remercier mon professeur d'informatique, [Quentin Lurkin], pour son précieux enseignement. Vous pouvez consulter son profil GitHub [ici](https://github.com/qlurkin).
+## Languages
 
-N'hésitez pas à me contacter ou à explorer mes projets pour en savoir plus sur mon travail. Merci de visiter mon profil !
+Here's a breakdown of the programming languages I use in my repositories:
+
+{{ LANGUAGE_TEMPLATE_START:max=4 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
+
+
+## Additional Information
+
+I'd like to express my gratitude to my computer science professor, [Quentin Lurkin](https://github.com/qlurkin), for their invaluable guidance.
+
+Feel free to reach out to me or explore my projects to learn more about my work. Thank you for visiting my profile!
