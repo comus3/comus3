@@ -39,3 +39,4 @@ Here's a breakdown of the programming languages I use in my repositories:
 I'd like to express my gratitude to my computer science professor, [Quentin Lurkin](https://github.com/qlurkin), for their invaluable guidance.
 
 Feel free to reach out to me or explore my projects to learn more about my work. Thank you for visiting my profile!
+ 
