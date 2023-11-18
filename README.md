@@ -2,13 +2,13 @@
 
 I'm Côme Plantin-Carrenard, a 22-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
 
-I've been on GitHub for 0 years and during this time, I've made 394 commits across 24 repositories.
+I've been on GitHub for 0 years and during this time, I've made 416 commits across 27 repositories.
 
 ## My Passions and Skills
 
 - 🖥️ Programming: I love to code in Python, C#, C++, and Java. Solving problems and creating applications in these languages is my forte.
 
-- 🤖 Artificial Intelligence: I have a special affinity for AI, neural networks, and the realm of data science. I explore these domains on my own to learn and grow.
+- 🤖 Artificial Intelligence: I have a special affinity for AI, neural networks, and the realm of data science. I explore these domains on my own to learn and grow. I even made my own framework in c.
 
 - 📦 Projects: I'm a project enthusiast and enjoy working on a variety of ideas alongside my studies. Each project is an opportunity for me to learn and enhance my skills.
 
@@ -28,10 +28,10 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B183.7%25)
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B19.4%25)
-![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.4%25)
-![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.3%25)
+![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B181.3%25)
+![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B18.2%25)
+![C](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B14.5%25)
+![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B15.9%25)
 
 
 
