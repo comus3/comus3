@@ -8,7 +8,7 @@ I've been on GitHub for {{ ACCOUNT_AGE }} years and during this time, I've made 
 
 - 🖥️ Programming: I love to code in Python, C#, C++, and Java. Solving problems and creating applications in these languages is my forte.
 
-- 🤖 Artificial Intelligence: I have a special affinity for AI, neural networks, and the realm of data science. I explore these domains on my own to learn and grow.
+- 🤖 Artificial Intelligence: I have a special affinity for AI, neural networks, and the realm of data science. I explore these domains on my own to learn and grow. I even made my own framework in c.
 
 - 📦 Projects: I'm a project enthusiast and enjoy working on a variety of ideas alongside my studies. Each project is an opportunity for me to learn and enhance my skills.
 
