@@ -18,7 +18,7 @@ I've been on GitHub for {{ ACCOUNT_AGE }} years and during this time, I've made 
 
 Here are a few of my favorite projects:
 
-- [FFT-Filter Project](https://github.com/comus3/FFT-Filter): A project I created for applying FFT filters to signals.
+- [FFT-Filter Project](https://github.com/comus3/FFT-Filter): A project I created for applying FFT filters to signals. 
 
 - [A Real Hello World](https://github.com/comus3/A_real_hello_world): A unique perspective on the traditional "Hello World."
 
