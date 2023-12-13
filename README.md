@@ -2,7 +2,7 @@
 
 I'm Côme Plantin-Carrenard, a 22-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
 
-I've been on GitHub for 1 years and during this time, I've made 516 commits across 35 repositories.
+I've been on GitHub for 1 years and during this time, I've made 517 commits across 35 repositories.
 
 ## My Passions and Skills
 
@@ -30,7 +30,7 @@ Here's a breakdown of the programming languages I use in my repositories:
 
 ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B159.1%25)
 ![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B121.8%25)
-![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B19.3%25)
+![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B19.2%25)
 ![C](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B13.2%25)
 ![EJS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B12.7%25)
 ![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.5%25)
