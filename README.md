@@ -2,7 +2,7 @@
 
 I'm Côme Plantin-Carrenard, a 22-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
 
-I've been on GitHub for 1 years and during this time, I've made 551 commits across 35 repositories.
+I've been on GitHub for 1 years and during this time, I've made 552 commits across 35 repositories.
 
 ## My Passions and Skills
 
@@ -41,7 +41,7 @@ Here's a breakdown of the programming languages I use in my repositories:
 
 I'd like to express my gratitude to my computer science professor, [Quentin Lurkin](https://github.com/qlurkin), for their invaluable guidance.
 
-Most of the stuff I make is on an MIT liscence so everybody is free to use and create things with my code. I'm an open source kind of guy (;
+Most of the stuff I make is on a MIT liscence so everybody is free to use and create things with my code. I'm an open source kind of guy ( ;
 
 Feel free to reach out to me or explore my projects to learn more about my work. Thank you for visiting my profile!
  
