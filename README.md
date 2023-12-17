@@ -2,7 +2,7 @@
 
 I'm Côme Plantin-Carrenard, a 22-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
 
-I've been on GitHub for 1 years and during this time, I've made 584 commits across 36 repositories.
+I've been on GitHub for 1 years and during this time, I've made 585 commits across 36 repositories.
 
 ## My Passions and Skills
 
@@ -13,7 +13,7 @@ I've been on GitHub for 1 years and during this time, I've made 584 commits acro
 - 📦 Projects: I'm a project enthusiast and enjoy working on a variety of ideas alongside my studies. Each project is an opportunity for me to learn and enhance my skills.
 
 - 👷 Simulations: I'm still a future engineer, I am passionated by physics and the science of generating models that approximate reality
-
+ 
 ## Favorite Projects
 
 Here are a few of my favorite projects:
