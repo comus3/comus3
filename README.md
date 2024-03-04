@@ -28,9 +28,9 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B142.3%25)
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B140.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B19.1%25)
+![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B142%25)
+![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B141.1%25)
+![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B19%25)
 ![EJS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B12.6%25)
 ![C](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B12.3%25)
 ![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.7%25)
