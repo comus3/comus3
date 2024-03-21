@@ -2,7 +2,7 @@
 
 I'm Côme Plantin-Carrenard, a 23-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
 
-I've been on GitHub for 1 years and during this time, I've made 869 commits across 41 repositories.
+I've been on GitHub for 1 years and during this time, I've made 877 commits across 41 repositories.
 
 ## My Passions and Skills
 
@@ -28,12 +28,12 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B189.6%25)
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B14.5%25)
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B14.2%25)
-![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.7%25)
-![EJS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.2%25)
-![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B191.3%25)
+![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.7%25)
+![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.5%25)
+![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.5%25)
+![EJS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.1%25)
+![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.5%25)
 
 
 
