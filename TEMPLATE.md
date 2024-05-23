@@ -14,7 +14,7 @@ I've been on GitHub for {{ ACCOUNT_AGE }} years and during this time, I've made 
 
 - 👷 Simulations: I'm still a future engineer, I am passionated by physics and the science of generating models that approximate reality
  
-## Favorite Projects
+## Favorite Projects 
 
 Here are a few of my favorite projects:
 
