@@ -28,12 +28,16 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B191.7%25)
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.8%25)
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B13.2%25)
-![JavaScript](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.4%25)
-![EJS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23a91e50&message=EJS%EF%B8%B10.1%25)
-![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
+# 📊 GitHub Stats:
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petitbato&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petitbato&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook" />
+</a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=petitbato&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
