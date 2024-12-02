@@ -17,7 +17,9 @@ I'm Côme Plantin-Carrenard, a 23-year-old student. I'm currently pursuing a deg
 
 Here are a few of my favorite projects:
 
-- [FFT-Filter Project](https://github.com/comus3/FFT-Filter): A project I created for applying FFT filters to signals. 
+- [FFT-Filter Project](https://github.com/comus3/FFT-Filter): A project I created for applying FFT filters to signals.
+
+- [Time based DataBase](https://github.com/comus3/Time_based_DB) : A time based database I coded from scratch with data retention and interpolation
 
 - [A Real Hello World](https://github.com/comus3/A_real_hello_world): A unique perspective on the traditional "Hello World."
 
