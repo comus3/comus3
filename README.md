@@ -27,7 +27,7 @@ Feel free to explore these projects to learn more about my work!
 
 Here's a breakdown of the programming languages I use in my repositories:
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comus3&theme=dark&hide_border=false" />
 </a>
