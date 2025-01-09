@@ -1,6 +1,6 @@
 ![Profile Image](profileImg.jpg)
 
-[My Website (wip)](https://github.com/comus3/FFT-Filter)
+[My Website (wip)](https://plantincarrenard.com/)
 
 
 I'm Côme Plantin-Carrenard, a 24-year-old student. I'm currently pursuing a degree in Electronics and Computer Science at ECAM. I am deeply fascinated by Artificial Intelligence and Neural Networks and I'm actively pursuing self-guided courses to expand my knowledge in these areas.
