@@ -28,26 +28,21 @@ Here are a few of my favorite projects:
 
 Feel free to explore these projects to learn more about my work!
 
-## Languages
+## Github Stats
 
-Here's a breakdown of the programming languages I use in my repositories:
+![](https://komarev.com/ghpvc/?username=comus3&color=green)
 
-## 📊 GitHub Stats:
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comus3&theme=dark&hide_border=false" />
-</a>
+Here's a breakdown of the programming languages I use in my repositories and my github streaks:
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comus3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,Kotlin" />
 </a>
-
----
-[![](https://visitcount.itsvg.in/api?id=petitbato&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comus3&theme=dark&hide_border=false" />
+</a>
 
 
 ## Additional Information
-
-I'd like to express my gratitude to my computer science professor, [Quentin Lurkin](https://github.com/qlurkin), for their invaluable guidance.
 
 Most of the stuff I make is on a MIT liscence so everybody is free to use and create things with my code. I'm an open source kind of guy
 Feel free to reach out to me or explore my projects to learn more about my work. Thank you for visiting my profile!
