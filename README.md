@@ -30,7 +30,7 @@ Feel free to explore these projects to learn more about my work!
 
 ## Github Stats
 
-![](https://komarev.com/ghpvc/?username=comus3&color=green)
+![](https://komarev.com/ghpvc/?username=comus3&color=blue)
 
 Here's a breakdown of the programming languages I use in my repositories and my github streaks:
 
