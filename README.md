@@ -37,7 +37,7 @@ Here's a breakdown of the programming languages I use in my repositories:
   <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comus3&theme=dark&hide_border=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comus3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comus3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook,Kotlin" />
 </a>
 
 ---
